@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Program that print a line using the put function
- * Return: o (when it returns o is a Success)
+ * main - Program that print a line using the puts function
+ * Return: 0 (when it returns 0 is a Success)
  */
 int main(void)
 {
