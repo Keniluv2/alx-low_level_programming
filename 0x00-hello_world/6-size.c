@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - program that prints the size of various compter types
- * Return (0) (if returns 0 its a success)
+ * Return (0) (if returns 0 it is a Success)
  */
 int main(void)
 {
