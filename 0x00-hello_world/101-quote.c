@@ -1,12 +1,11 @@
 #include <stdio.h>
-
+#include <unistd.h>
 /**
- * main - Enty point
- *
- * Return: Always 0 (Success)
+ * main - A c program that prints a line to the standard error
+ * Return 1 (Success)
  */
 int main(void)
 {
-	wite(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",
-	return (1)
+	fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
+return (1);
 }
